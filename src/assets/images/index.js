@@ -1,0 +1,12 @@
+export {default as Twiiter } from "./twitter.png";
+export {default as Calendar } from "./calendar.png";
+export {default as Discord } from "./discord.png";
+export {default as Finder } from "./finder.png";
+export {default as Weather } from "./weather.png";
+export {default as VScode } from "./vscode.webp";
+export {default as Spotify } from "./spotify.png";
+export {default as Photos } from "./photos.png";
+export {default as Netflix } from "./netflix.png";
+export {default as Calculator } from "./calculator.png";
+export {default as Github } from "./github.png";
+export {default as Music } from "./applemusic.png";
